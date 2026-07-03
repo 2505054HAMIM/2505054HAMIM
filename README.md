@@ -22,7 +22,7 @@ IT student in Osaka, Japan 🇯🇵 — I build web applications, mainly on the 
 
 ## 📌 Featured project
 
-### [Kotodama (言霊) — Online Bookstore](https://github.com/2505054HAMIM/kotodama)
+### [Kotodama (コトダマ) — Online Bookstore](https://github.com/2505054HAMIM/kotodama)
 A full-featured online bookstore built with **PHP & MySQL**: user authentication (bcrypt), book catalog, shopping cart & checkout, favorites, reviews, reading logs, a point system, seasonal campaigns, and a complete admin panel.
 
 ### Other projects
